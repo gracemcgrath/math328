@@ -1,0 +1,1 @@
+a = 5x = 2 n = 6for k in range(n):        x = (x+a/x)/2        print(round(x,6))
