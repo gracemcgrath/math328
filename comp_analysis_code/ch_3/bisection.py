@@ -1,0 +1,1 @@
+from math import ceil def bisect(func, a, b, atol):    a_val = func(a)    print(a_val)    return
